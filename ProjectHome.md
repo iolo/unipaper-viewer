@@ -1,0 +1,1 @@
+Uni-Paper Viewer is a client-side web application to view the various formats of documents which standard browsers cannot support.
